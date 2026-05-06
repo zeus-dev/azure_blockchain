@@ -9,7 +9,7 @@
   "author": "Ali Hajimirza",
   "license": "MIT",
   "dependencies": {
-    "axios": "0.21.2",
+    "axios": "0.31.1",
     "qs": "6.6.0"
   }
 }
